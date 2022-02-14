@@ -1,0 +1,12 @@
+{
+  "item.mekanismmatter.naquadah": "硅岩",
+  "item.mekanismmatter.liquid_naquadah_bucket": "液态硅岩桶",
+  "block.mekanismmatter.naquadah_reactor": "§2便携式硅岩反应堆",
+  "block.mekanismmatter.naquadah_reactor_controller": "硅岩反应堆控制器",
+  "block.mekanismmatter.naquadah_ore": "硅岩矿石",
+  "block.mekanismmatter.naquadah_block": "§e硅岩块",
+  "block.mekanismmatter.naquada_reinforced_tnt": "硅岩强化TNT",
+  "item.mekanismmatter.naquadria": "硅岩金属化合物",
+  "item.mekanismmatter.refined_naquadah": "§e精炼硅岩",
+  "fluid.liquid_naquadah": "液态硅岩"
+}
