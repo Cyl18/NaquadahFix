@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 3,
-    "description": "将纳夸达替换为硅岩"
+    "pack_format": 1,
+    "description": "将纳夸达替换为硅岩, but 1.7.10, for GTNH"
   }
 }
