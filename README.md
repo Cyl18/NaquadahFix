@@ -1,6 +1,5 @@
 # NaquadahFix
-将纳夸达替换为硅岩的资源包  
-仅限1.18.1 没做1.16.5的  
+将纳夸达替换为硅岩的资源包, but 1201, since it's for TGHN
 
 ![](docs/2.png)
 
