@@ -7,6 +7,6 @@
 使用 `git diff 585c9dd 20a5693 | grep "^+"` 生成
 
 ---
-![](docs/EZ4.png)
+![](docs/EZ4.jpg)
 ![](docs/EZ3.png)
 
