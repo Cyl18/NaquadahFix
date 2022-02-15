@@ -1,10 +1,8 @@
 # NaquadahFix
-将纳夸达替换为硅岩的资源包  
-仅限1.12.2 没做1.16.5的  
+将纳夸达替换为null的资源包  
+由[Cyl18](https://github.com/Cyl18/NaquadahFix)的版本修改而来，致力于解决无法找到一个良好的翻译的问题
 
 ![](docs/2.png)
-
-使用 `git diff 585c9dd 20a5693 | grep "^+"` 生成
 
 ---
 ![](docs/1.png)
