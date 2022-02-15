@@ -1,7 +1,7 @@
-metaitem.boule.naquadah.name=硅岩掺杂的单晶硅
-metaitem.wafer.naquadah.name=硅岩掺杂的晶圆
-gtadditions.machine.naquadah_reactor.mk1.name=硅岩反应堆 Mk I
-gtadditions.machine.naquadah_reactor.mk2.name=硅岩反应堆 Mk II
-gtadditions.machine.naquadah_reactor.mk3.name=硅岩反应堆 Mk III
-gtadditions.machine.naquadah_reactor.mk4.name=硅岩反应堆 Mk IV
-recipemap.naquadah_reactor.name=硅岩反应堆燃料
+metaitem.boule.naquadah.name=Naquadah掺杂的单晶硅
+metaitem.wafer.naquadah.name=Naquadah掺杂的晶圆
+gtadditions.machine.naquadah_reactor.mk1.name=Naquadah反应堆 Mk I
+gtadditions.machine.naquadah_reactor.mk2.name=Naquadah反应堆 Mk II
+gtadditions.machine.naquadah_reactor.mk3.name=Naquadah反应堆 Mk III
+gtadditions.machine.naquadah_reactor.mk4.name=Naquadah反应堆 Mk IV
+recipemap.naquadah_reactor.name=Naquadah反应堆燃料
