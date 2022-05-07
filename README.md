@@ -1,7 +1,7 @@
 # NaquadahFix
 
 ## 我为什么要做 NaquadahFix？
-是的，我想拱火。
+虽然说是个meme产物，是的，我想拱火。
 
 你好好打着游戏，聊着天，突然看到群里发来几张图：  
 ![image](https://user-images.githubusercontent.com/14993992/166250422-3a2314bd-eed1-4977-93d5-5cf2af23f312.png)  
